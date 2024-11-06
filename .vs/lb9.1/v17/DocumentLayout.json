@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\lb9.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B64F7E66-F98C-4945-BFFD-2D766BDAA707}|lb9.1\\lb9.1.vcxproj|C:\\Users\\Admin\\source\\repos\\lb9.1\\lb9.1\\lb9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B64F7E66-F98C-4945-BFFD-2D766BDAA707}|lb9.1\\lb9.1.vcxproj|solutionrelative:lb9.1\\lb9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A464C9F8-0829-472F-81BA-B4712EA48A7F}|dod.cpp\\dod.cpp.vcxproj|C:\\Users\\Admin\\source\\repos\\lb9.1\\dod.cpp\\dod.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A464C9F8-0829-472F-81BA-B4712EA48A7F}|dod.cpp\\dod.cpp.vcxproj|solutionrelative:dod.cpp\\dod.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A709608A-0753-4834-BC66-6D9926E63AB1}|dod.h\\dod.h.vcxproj|C:\\Users\\Admin\\source\\repos\\lb9.1\\dod.h\\dod.h.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A709608A-0753-4834-BC66-6D9926E63AB1}|dod.h\\dod.h.vcxproj|solutionrelative:dod.h\\dod.h.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C387BB5B-40A3-44DA-801C-4D485C642EE3}|var.cpp\\var.cpp.vcxproj|C:\\Users\\Admin\\source\\repos\\lb9.1\\var.cpp\\var.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C387BB5B-40A3-44DA-801C-4D485C642EE3}|var.cpp\\var.cpp.vcxproj|solutionrelative:var.cpp\\var.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFB4CA3-6B21-4D86-A04D-18365FD49BE8}|var.h\\var.h.vcxproj|C:\\Users\\Admin\\source\\repos\\lb9.1\\var.h\\var.h.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDFB4CA3-6B21-4D86-A04D-18365FD49BE8}|var.h\\var.h.vcxproj|solutionrelative:var.h\\var.h.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0922F839-9DA5-4128-9540-8D58DA36DF84}|sum.cpp\\sum.cpp.vcxproj|C:\\Users\\Admin\\source\\repos\\lb9.1\\sum.cpp\\sum.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0922F839-9DA5-4128-9540-8D58DA36DF84}|sum.cpp\\sum.cpp.vcxproj|solutionrelative:sum.cpp\\sum.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0922F839-9DA5-4128-9540-8D58DA36DF84}|sum.cpp\\sum.cpp.vcxproj|C:\\Users\\Admin\\source\\repos\\lb9.1\\sum.cpp\\sum.cpp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0922F839-9DA5-4128-9540-8D58DA36DF84}|sum.cpp\\sum.cpp.vcxproj|solutionrelative:sum.cpp\\sum.cpp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854D405A-B30A-47D7-B4FD-EED16AC1841E}|sum.h\\sum.h.vcxproj|C:\\Users\\Admin\\source\\repos\\lb9.1\\sum.h\\sum.h.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{854D405A-B30A-47D7-B4FD-EED16AC1841E}|sum.h\\sum.h.vcxproj|solutionrelative:sum.h\\sum.h.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sum.cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb9.1\\sum.cpp\\sum.cpp.cpp",
+              "RelativeDocumentMoniker": "sum.cpp\\sum.cpp.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb9.1\\sum.cpp\\sum.cpp.cpp",
+              "RelativeToolTip": "sum.cpp\\sum.cpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T09:03:56.934Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sum.cpp.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb9.1\\sum.cpp\\sum.cpp.h",
+              "RelativeDocumentMoniker": "sum.cpp\\sum.cpp.h",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb9.1\\sum.cpp\\sum.cpp.h",
+              "RelativeToolTip": "sum.cpp\\sum.cpp.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-03T09:20:05.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sum.h.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb9.1\\sum.h\\sum.h.cpp",
+              "RelativeDocumentMoniker": "sum.h\\sum.h.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb9.1\\sum.h\\sum.h.cpp",
+              "RelativeToolTip": "sum.h\\sum.h.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T09:03:17.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dod.cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb9.1\\dod.cpp\\dod.cpp.cpp",
+              "RelativeDocumentMoniker": "dod.cpp\\dod.cpp.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb9.1\\dod.cpp\\dod.cpp.cpp",
+              "RelativeToolTip": "dod.cpp\\dod.cpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T09:01:51.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dod.h.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb9.1\\dod.h\\dod.h.cpp",
+              "RelativeDocumentMoniker": "dod.h\\dod.h.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb9.1\\dod.h\\dod.h.cpp",
+              "RelativeToolTip": "dod.h\\dod.h.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T09:00:48.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "var.cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb9.1\\var.cpp\\var.cpp.cpp",
+              "RelativeDocumentMoniker": "var.cpp\\var.cpp.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb9.1\\var.cpp\\var.cpp.cpp",
+              "RelativeToolTip": "var.cpp\\var.cpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T08:59:46.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "var.h.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb9.1\\var.h\\var.h.cpp",
+              "RelativeDocumentMoniker": "var.h\\var.h.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb9.1\\var.h\\var.h.cpp",
+              "RelativeToolTip": "var.h\\var.h.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T08:59:01.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lb9.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb9.1\\lb9.1\\lb9.1.cpp",
+              "RelativeDocumentMoniker": "lb9.1\\lb9.1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb9.1\\lb9.1\\lb9.1.cpp",
+              "RelativeToolTip": "lb9.1\\lb9.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T08:58:02.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
